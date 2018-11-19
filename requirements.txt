@@ -1,0 +1,5 @@
+numpy
+tensorflow-gpu
+wrapt
+tensorflow-probability
+opencv-python
